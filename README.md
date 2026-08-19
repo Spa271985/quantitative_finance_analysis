@@ -1,0 +1,1 @@
+Python-based credit-risk analysis of public European Banking Authority (EBA) data, covering exposure composition, default trends, HHI concentration, peer benchmarking and stress sensitivity. Detailed mathematical concepts and project description with findings can be found inside Project 1 (P1) as credit_risk_analysis_EBAdata.pdf
